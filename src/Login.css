@@ -1,0 +1,22 @@
+
+.form-outer-wrapper{
+    margin-top: 2rem;
+    }
+  
+  .form-inner-wrapper{
+    border: solid black 1px;
+    border-radius:1%;
+    margin: auto;
+    padding: 3rem;
+  }
+  
+  .form{
+    margin-bottom: 1rem;
+  }
+  
+  .float-left{
+    float: left;
+  }
+
+      
+ 
